@@ -1,4 +1,4 @@
-# EMG-EEG-Amplifier
+# EMG/EEG-Amplifier
 3 Channel instrumentation amplifier circuit using AD8221. 
 
 **EMG:** 1 channel, fully differential. 10Hz highpass and 100x gain.   
