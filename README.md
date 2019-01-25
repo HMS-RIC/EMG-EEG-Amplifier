@@ -2,6 +2,7 @@
 3 Channel instrumentation amplifier circuit using AD8221. 
 
 EMG channel is fully differential. 10Hz highpass and 100x gain. 
+
 EEG 2 channels use a common reference. .5Hz highpass and 100x gain.
 
 Gain is set using a single 499 Ohm resistor per channel. 
