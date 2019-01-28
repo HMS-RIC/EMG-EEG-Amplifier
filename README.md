@@ -12,4 +12,6 @@ Red wire: +5V
 White wire: -5V  
 Blue wires (3): Outputs  
 
+.asc file can be opened with LTspice to run the circuit simulation and plot frequency response and transient analysis
+
  ![Alt text](/_1160748.JPG?raw=true "EMG/EEG Amplifier board")
