@@ -8165,8 +8165,8 @@ Source: www.mpe-connector.de / garry_shortform_2012.pdf</description>
 <part name="RG1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="499"/>
 <part name="R1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.5M"/>
 <part name="R2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.5M"/>
-<part name="C1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".033uF"/>
-<part name="C2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".033uF"/>
+<part name="C1" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".01 uF"/>
+<part name="C2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".01 uF"/>
 <part name="C3" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".1uF"/>
 <part name="C4" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value="10uF"/>
 <part name="C5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".1uF"/>
@@ -8182,8 +8182,8 @@ Source: www.mpe-connector.de / garry_shortform_2012.pdf</description>
 <part name="RG2" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="499"/>
 <part name="R3" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.5M"/>
 <part name="R4" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.5M"/>
-<part name="C7" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".1uF"/>
-<part name="C8" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".1uF"/>
+<part name="C7" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".22 uF"/>
+<part name="C8" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".22 uF"/>
 <part name="C9" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".1uF"/>
 <part name="C10" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".1uF"/>
 <part name="SUPPLY7" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
@@ -8194,8 +8194,8 @@ Source: www.mpe-connector.de / garry_shortform_2012.pdf</description>
 <part name="RG3" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="499"/>
 <part name="R5" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.5M"/>
 <part name="R6" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-US_" device="R0805" package3d_urn="urn:adsk.eagle:package:23553/2" value="1.5M"/>
-<part name="C11" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".1uF"/>
-<part name="C12" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".1uF"/>
+<part name="C11" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".22 uF"/>
+<part name="C12" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".22 uF"/>
 <part name="C13" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".1uF"/>
 <part name="C14" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="C-US" device="C0805K" package3d_urn="urn:adsk.eagle:package:23681/2" value=".1uF"/>
 <part name="SUPPLY13" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
@@ -8210,6 +8210,13 @@ Source: www.mpe-connector.de / garry_shortform_2012.pdf</description>
 <sheets>
 <sheet>
 <plain>
+<text x="-101.6" y="-60.96" size="1.778" layer="97">Filter Components
+
+EMG
+As built 1.5 MOhm and .01 uF give 10.6 Hz high-pass cut-off
+
+EEG
+As built 1.5 MOhm and .22uF give .48 Hz high-pass cut-off</text>
 </plain>
 <instances>
 <instance part="IC1" gate="G$1" x="0" y="0" smashed="yes">
@@ -8764,6 +8771,10 @@ Source: www.mpe-connector.de / garry_shortform_2012.pdf</description>
 </schematic>
 </drawing>
 <compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
 <note version="8.2" severity="warning">
 Since Version 8.2, EAGLE supports online libraries. The ids
 of those online libraries will not be understood (or retained)
